@@ -1,0 +1,43 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: blueviolet;
+    border-radius: 10px;
+    margin: 10px;
+    border: 10px;
+    border-color: black;
+}
+.a{
+    background-color: aqua;
+    border-radius: 10px;
+    color: black;
+    text-decoration: none;
+}
+.e{
+    background-color: aqua;
+    text-decoration:none;
+   margin: 10px;
+}
+main h1{
+    color: darkorchid;
+    
+}
+footer p{
+    background-color: aqua;
+}
+.o{
+    background-color: aqua;
+    border-color: black;
+    border-radius: 10px;
+
+
+}
+.t{
+    margin: 25px;
+    padding: 25px;
+}
+.j{
+    padding: 25px;
+    margin: 25px;
+}
